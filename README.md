@@ -1,6 +1,7 @@
 # retail-performance-analytics
 Sales performance analysis dashboard for Zara retail operations using Looker Studio.
-##Project Overview
+
+## Project Overview
 This Project analyzes retail sales performance on seasonality, product placement, and promotion effectiveness using Looker Studio.
 
 ## Key Strategic Recommendations
